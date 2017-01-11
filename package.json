@@ -1,0 +1,16 @@
+{
+  "name": "dojo.io",
+  "version": "1.0.0",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dojo/dojo.io.git"
+  },
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/dojo/dojo.io/issues"
+  },
+  "homepage": "https://github.com/dojo/dojo.io#readme",
+  "dependencies": {
+  }
+}
